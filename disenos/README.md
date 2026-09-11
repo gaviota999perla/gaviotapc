@@ -14,10 +14,22 @@ Cada una es un **punto de partida editable**: ábrela, duplícala cada semana ("
 | **Cumpleaños** | [Abrir para editar](https://www.canva.com/d/nv4N4vn2x1zkneb) | [Ver](https://www.canva.com/d/8UexlsbwAG8faDX) |
 | **Corporativo** | [Abrir para editar](https://www.canva.com/d/Q2ZKHytRsAkUi_u) | [Ver](https://www.canva.com/d/OX1e9_rGaV4wiMK) |
 
+## Versión vertical (Historias de Instagram/Facebook y Estados de WhatsApp)
+
+Mismo contenido y estética, en formato 9:16 vertical, con espacio libre arriba y abajo para no tapar con los controles de Stories.
+
+| Pilar | Editar en Canva | Ver diseño |
+|---|---|---|
+| **XV años** | [Abrir para editar](https://www.canva.com/d/WbaE8YMhYinGOE1) | [Ver](https://www.canva.com/d/BlZWRRaiZODTc9V) |
+| **Bodas** | [Abrir para editar](https://www.canva.com/d/WwgguXVxTRc_IUu) | [Ver](https://www.canva.com/d/2jZxsK5XCYUK7j4) |
+| **Cumpleaños** | [Abrir para editar](https://www.canva.com/d/HQyzcpcrFDxqKGn) | [Ver](https://www.canva.com/d/7EuC-erS4C-xXQN) |
+| **Corporativo** | [Abrir para editar](https://www.canva.com/d/ErGh660oxchrWau) | [Ver](https://www.canva.com/d/xtA_XoeUYZio_zF) |
+
+Úsalas para republicar cada post del feed también como Historia esa misma semana (sube el alcance sin generar contenido nuevo desde cero).
+
 ## Notas
 
 - Estos diseños se generaron con IA a partir de la descripción de marca (no incluyen el logo exacto de Quinta La Dorada, porque el archivo del logo no está subido a Canva). Si quieres, puedes:
   1. Subir tu logo (el archivo PNG que ya tienes) directamente en Canva y colocarlo sobre cada plantilla, o
   2. Pedir que se generen variantes nuevas una vez que el logo esté subido como recurso en tu cuenta de Canva.
-- No se generó una plantilla para redes tipo Historia/WhatsApp Estados (formato vertical 9:16) — si la quieres, se puede crear igual que estas cuatro, solo dilo.
-- Cada plantilla generó automáticamente 3 variantes adicionales de diseño (mismo tema, distinto layout). Si el resultado elegido no te convence, se puede regenerar o pedir ver las otras variantes.
+- Cada plantilla (feed y vertical) generó automáticamente 3 variantes adicionales de diseño (mismo tema, distinto layout). Si el resultado elegido no te convence, se puede regenerar o pedir ver las otras variantes.
