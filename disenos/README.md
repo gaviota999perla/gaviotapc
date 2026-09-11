@@ -43,6 +43,11 @@ Verónica compartió 15 fotos reales de eventos y espacios de la quinta. No se p
 
 Se revisaron los 8 diseños directamente en Canva y se corrigieron errores de la generación por IA: texto sin sentido en 2 diseños de feed, y CTA/WhatsApp faltante en las 4 versiones de Historia. El diseño de Bodas (feed) ya tiene puesta la foto real del arco floral. Todos los cambios quedaron guardados en Canva — no requieren acción adicional.
 
+**Dos hallazgos importantes para tener en cuenta al seguir editando en Canva:**
+
+1. **La fuente caligráfica grande renderiza mal ciertas combinaciones de letras.** En el diseño de Bodas, el titular "El sí," se veía como "Elí," porque a tamaño grande esa fuente casi borra la "s". Se cambió a "Boda" para evitarlo. Si al editar aparece algo raro en un titular, probablemente sea lo mismo — prueba con otra palabra en vez de forzar la misma fuente.
+2. **Al poner una foto de fondo, el texto pierde contraste.** Solución aplicada en Bodas: una capa negra semitransparente (opacidad ~38%) entre la foto y el texto, ubicada justo detrás de los textos y ornamentos. Conviene repetir esto en los otros 7 diseños en cuanto se les ponga una foto real — en Canva: Elementos → Formas → rectángulo negro cubriendo el área de texto, bajarle la opacidad a ~35-40%, y enviarlo "Atrás" pero por delante de la foto (clic derecho → Ordenar → Enviar atrás, o mantén presionado y busca la misma opción en celular).
+
 ## Notas
 
 - Estos diseños se generaron con IA a partir de la descripción de marca (no incluyen el logo exacto de Quinta La Dorada). La herramienta de Canva conectada a esta sesión solo puede traer imágenes desde una URL pública, no puede leer archivos locales ni entrar a Facebook (bloqueado desde este entorno) — por eso el logo y las fotos reales del lugar hay que agregarlos manualmente:
