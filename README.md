@@ -8,7 +8,8 @@ Sistema de contenido publicitario semanal para redes sociales (Instagram y Faceb
 |---|---|
 | [`estrategia-contenido.md`](./estrategia-contenido.md) | Pilares de contenido, tono de marca, banco de hashtags y reglas de cadencia semanal (cómo seguir generando anuncios cada semana sin repetirte). |
 | [`calendario-4-semanas.md`](./calendario-4-semanas.md) | Calendario listo para usar: 4 semanas × 3 publicaciones (12 posts), con el copy completo para copiar y pegar. |
-| [`disenos/README.md`](./disenos/README.md) | Los 4 diseños base (uno por tipo de evento) creados en Canva, con instrucciones para reutilizarlos cada semana. |
+| [`anuncios-listos/`](./anuncios-listos/README.md) | **Las 8 imágenes finales, listas para publicar** — con fotos reales y logo ya puestos, sin editar nada. |
+| [`disenos/README.md`](./disenos/README.md) | Versión editable de respaldo en Canva (4 diseños base + qué foto real poner en cada uno). |
 
 ## Datos de marca usados
 
@@ -24,6 +25,6 @@ Sistema de contenido publicitario semanal para redes sociales (Instagram y Faceb
 ## Cómo usar esto cada semana
 
 1. Abre `calendario-4-semanas.md`, busca la semana actual y copia el texto del post correspondiente.
-2. Abre en Canva la plantilla del tipo de evento de esa semana (ver `disenos/README.md`), duplícala, cambia la fecha/frase si aplica y — si ya tienes fotos reales de la quinta o del evento — reemplaza el fondo por una foto propia.
-3. Exporta como PNG/JPG desde Canva y publica en Instagram/Facebook con el copy correspondiente.
-4. Al terminar las 4 semanas, repite el ciclo (semana 5 = XV años otra vez, etc.) cambiando frases de gancho para no sonar repetitivo — hay variantes de copy extra en `estrategia-contenido.md`.
+2. Descarga la imagen lista de `anuncios-listos/` del tipo de evento de esa semana (feed y/o historia).
+3. Publica en Instagram/Facebook: imagen + copy correspondiente. Sin editar nada.
+4. Al terminar las 4 semanas, repite el ciclo (semana 5 = XV años otra vez, etc.) cambiando frases de gancho para no sonar repetitivo — hay variantes de copy extra en `estrategia-contenido.md`. Si quieres una imagen nueva (otra foto, otro texto), pídemela y te la genero lista igual que las actuales.
