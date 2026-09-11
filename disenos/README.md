@@ -39,6 +39,10 @@ Verónica compartió 15 fotos reales de eventos y espacios de la quinta. No se p
 | Corporativo (feed + historia) | Vista aérea de piscina + cancha + jardines, o carpa con montaje de sillas | Muestra la amplitud y versatilidad del espacio |
 | Uso general / portada | Piscina de noche con luces azules, o letrero de bienvenida junto a la piscina | Buena foto de ambiente para posts generales |
 
+## Control de calidad (revisión del 11 sep 2026)
+
+Se revisaron los 8 diseños directamente en Canva y se corrigieron errores de la generación por IA: texto sin sentido en 2 diseños de feed, y CTA/WhatsApp faltante en las 4 versiones de Historia. El diseño de Bodas (feed) ya tiene puesta la foto real del arco floral. Todos los cambios quedaron guardados en Canva — no requieren acción adicional.
+
 ## Notas
 
 - Estos diseños se generaron con IA a partir de la descripción de marca (no incluyen el logo exacto de Quinta La Dorada). La herramienta de Canva conectada a esta sesión solo puede traer imágenes desde una URL pública, no puede leer archivos locales ni entrar a Facebook (bloqueado desde este entorno) — por eso el logo y las fotos reales del lugar hay que agregarlos manualmente:
