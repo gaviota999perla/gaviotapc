@@ -15,6 +15,7 @@ Sistema de contenido publicitario semanal para redes sociales (Instagram y Faceb
 - **Nombre:** Quinta La Dorada — Salón de Eventos
 - **Ubicación:** Esmeraldas, Ecuador
 - **WhatsApp / contacto:** 0939680359
+- **Facebook:** [facebook.com/quintaladorada.ec](https://www.facebook.com/quintaladorada.ec) (nota: no accesible desde este entorno de trabajo — cualquier contenido de esa página debe compartirse aquí como captura o archivo adjunto, no como enlace)
 - **Identidad visual:** fondo negro, dorado (#D4AF37 aprox.), tipografía caligráfica, ornamento de corona (según el logo)
 - **Amenidades del lugar:** jardines, piscina con cascada, cancha deportiva, bar, entorno natural (río y bosque)
 - **Tipos de evento que se promocionan por igual:** XV años, bodas, cumpleaños, eventos corporativos (y se puede sumar bautizos, aniversarios, etc. siguiendo el mismo patrón)
