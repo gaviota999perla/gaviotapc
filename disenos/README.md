@@ -27,6 +27,18 @@ Mismo contenido y estética, en formato 9:16 vertical, con espacio libre arriba 
 
 Úsalas para republicar cada post del feed también como Historia esa misma semana (sube el alcance sin generar contenido nuevo desde cero).
 
+## Fotos reales de la quinta (recibidas por chat)
+
+Verónica compartió 15 fotos reales de eventos y espacios de la quinta. No se pudieron subir automáticamente a Canva (llegaron como adjuntos de chat, no como URL pública), así que se recomienda colocarlas manualmente siguiendo la guía de la sección "Notas". Sugerencia de qué foto usar en cada plantilla:
+
+| Diseño | Foto sugerida | Motivo |
+|---|---|---|
+| Bodas (feed + historia) | Arco floral blanco en el patio, o mesa "MR & MRS" con flores | Elegante y romántica |
+| XV años (feed + historia) | Mesa de torta con aro floral rojo/rosa, o montaje de mesas con el número "15" | Muestra la decoración típica de una quinceañera |
+| Cumpleaños (feed + historia) | Arco de globos colorido, o mesa de dulces con caballito de carrusel | Ambiente festivo e infantil |
+| Corporativo (feed + historia) | Vista aérea de piscina + cancha + jardines, o carpa con montaje de sillas | Muestra la amplitud y versatilidad del espacio |
+| Uso general / portada | Piscina de noche con luces azules, o letrero de bienvenida junto a la piscina | Buena foto de ambiente para posts generales |
+
 ## Notas
 
 - Estos diseños se generaron con IA a partir de la descripción de marca (no incluyen el logo exacto de Quinta La Dorada). La herramienta de Canva conectada a esta sesión solo puede traer imágenes desde una URL pública, no puede leer archivos locales ni entrar a Facebook (bloqueado desde este entorno) — por eso el logo y las fotos reales del lugar hay que agregarlos manualmente:
