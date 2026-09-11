@@ -29,7 +29,9 @@ Mismo contenido y estética, en formato 9:16 vertical, con espacio libre arriba 
 
 ## Notas
 
-- Estos diseños se generaron con IA a partir de la descripción de marca (no incluyen el logo exacto de Quinta La Dorada, porque el archivo del logo no está subido a Canva). Si quieres, puedes:
-  1. Subir tu logo (el archivo PNG que ya tienes) directamente en Canva y colocarlo sobre cada plantilla, o
-  2. Pedir que se generen variantes nuevas una vez que el logo esté subido como recurso en tu cuenta de Canva.
+- Estos diseños se generaron con IA a partir de la descripción de marca (no incluyen el logo exacto de Quinta La Dorada). La herramienta de Canva conectada a esta sesión solo puede traer imágenes desde una URL pública, no puede leer archivos locales ni entrar a Facebook (bloqueado desde este entorno) — por eso el logo y las fotos reales del lugar hay que agregarlos manualmente:
+  1. Abre cualquier diseño con el enlace "Abrir para editar".
+  2. Arrastra el archivo del logo (o una foto de la quinta) directo al lienzo, o usa el botón "Subir" del panel izquierdo de Canva.
+  3. Colócalo donde prefieras — el logo puede reemplazar el ornamento decorativo, o ir como sello en una esquina; una foto real puede reemplazar el fondo genérico.
+  4. Una vez subido en un diseño, queda disponible en la galería de tu cuenta de Canva para reutilizarlo en el resto de las plantillas.
 - Cada plantilla (feed y vertical) generó automáticamente 3 variantes adicionales de diseño (mismo tema, distinto layout). Si el resultado elegido no te convence, se puede regenerar o pedir ver las otras variantes.
